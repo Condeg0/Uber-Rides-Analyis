@@ -1,5 +1,5 @@
 # Uber Data Analysis
-This project performs a comprehensive analysis of Uber ride data from April 2014 to September 2014. Containing data oon over 4 million Uber rides in New York City, this project aims on providing visual insights into ride patterns based on various time dimensions and geographical locations.
+This project performs a comprehensive analysis of Uber ride data from April 2014 to September 2014. Containing data on over 4 million Uber rides in New York City, this project aims to provide visual insights into ride patterns based on various time dimensions and geographical locations.
 
 
 # What the Application Does
