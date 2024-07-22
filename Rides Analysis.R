@@ -107,6 +107,8 @@ ggplot(data = day_month_group, aes(Month, Total, fill = Day_of_week)) +
 
 
 # ===== TRIPS BY BASE ===== 
+# What are bases are the company code which has released their vehicles under 
+# contract for Uber Cabs
 # bar graph - trips by base
 ggplot(data = data_2014, aes(x = Base)) +
   geom_bar(fill = "darkblue") +
