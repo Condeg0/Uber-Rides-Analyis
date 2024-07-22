@@ -2,6 +2,8 @@
 This project performs a comprehensive analysis of Uber ride data from April 2014 to September 2014, providing visual insights into ride patterns based on various time dimensions and geographical locations.
 
 
+
+
 # What the Application Does
 This application aims to analyze Uber ride data to uncover patterns and trends. Specifically, it:
 
@@ -10,6 +12,7 @@ This application aims to analyze Uber ride data to uncover patterns and trends. 
 * Maps ride density: Plots the geographical locations of Uber rides to show areas with high ride activity.
 * Creates heatmaps: Displays heatmaps to visualize the concentration of rides based on time and location.
 * Analyzes base activity: Compares the activity levels of different Uber bases over time.
+
 
 ## Why These Technologies Were Used
 * R: The primary language for data analysis and visualization due to its robust statistical capabilities and extensive library support.
@@ -20,6 +23,7 @@ This application aims to analyze Uber ride data to uncover patterns and trends. 
 * tidyr: Helps in tidying data, making it easier to work with.
 * scales: Assists in formatting scales and labels in plots.
 * DT: Used for rendering data tables in an interactive manner.
+
 
 ## Challenges Faced
 * Data Cleaning: Ensuring the date and time formats were consistent across all datasets.
